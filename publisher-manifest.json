@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "d55e6fe6931a052deda5bfc0",
+  "owner": "bxfexj6h",
+  "repo": "bxfexj6h.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "2732bc71acfa094906e852c9",
+      "a": "歪兔(YToo)",
+      "b": "首页",
+      "entity": "歪兔(YToo)",
+      "brand": "首页",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4358b5baf23d4564b07fef28076745f25a4c918410dd057298962a3b33378386",
+      "content": {
+        "primary_entity": "歪兔(YToo)",
+        "keyword1": "歪兔(YToo)",
+        "keyword2": "首页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，完成订阅配置后即可连接使用。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "选定套餐并完成订阅配置，开始稳定连接。",
+          "AI_CLOSING_TITLE": "开启歪兔加速",
+          "AI_DESCRIPTION": "，歪兔为不同设备与用量需求提供基础版、旗舰版、团队版三档套餐，流量、在线设备数和节点线路逐级提升，可按月或按年订阅，适合个人日常使用、流媒体解锁及团队协作场景。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和订阅周期出发，选择匹配的套餐。",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人轻量使用，旗舰版覆盖多设备流媒体与游戏加速，团队版面向多终端协作。",
+          "AI_FEATURE_TEXT_2": "套餐支持按月或按年订阅，按年付更划算，可按实际用量变化调整档位。",
+          "AI_FEATURE_TEXT_3": "同一账号可在套餐允许的设备数内同时在线，覆盖手机、电脑与平板等常用终端。",
+          "AI_FEATURE_TITLE_1": "按需求匹配套餐",
+          "AI_FEATURE_TITLE_2": "灵活计费周期",
+          "AI_FEATURE_TITLE_3": "多设备同步在线",
+          "AI_GUIDE_INTRO": "三步完成歪兔套餐启用与订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "歪兔为个人与团队提供灵活的海外加速套餐，覆盖基础版、旗舰版和团队版，可依据流量用量、在线设备数量和线路需求选择合适档位，支持按月或按年订阅，并针对流媒体与游戏等场景优化线路。",
+          "AI_HERO_SUBTITLE": "灵活套餐，满足不同设备加速需求",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "按月或按年灵活订阅",
+          "AI_PLANS_INTRO": "根据流量、设备数和线路偏好对比三档套餐，选择适合的订阅方案。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量、同时在线设备数量和线路需求，在基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "确认所选套餐的设备支持范围与订阅周期，按需选择按月或按年付费。",
+          "AI_STEP_TEXT_3": "在所用设备上安装对应客户端，依照客户端文档导入订阅信息并完成连接配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "歪兔套餐灵活选",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版怎么选？",
+          "AI_FAQ_ANSWER_1": "如果日常只有一两台设备，流量需求在百GB以内，基础版即可满足浏览和基础流媒体。需要多设备同时在线或更稳定的游戏线路，旗舰版更合适。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "各套餐设备数不同，基础版支持三台，旗舰版支持五台，团队版支持二十台。超出数量时新设备可能无法连接，建议按实际设备数选择。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，适合短期尝试；年付一次性支付全年费用，单价更低。长期使用可优先考虑年付，具体以所选套餐页面显示为准。",
+          "AI_FAQ_QUESTION_4": "订阅导入失败怎么办？",
+          "AI_FAQ_ANSWER_4": "先确认客户端版本是否支持导入链接，再检查订阅地址是否完整复制。部分客户端需要手动更新订阅或更换节点后再试。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版面向多成员协作、高带宽访问和定制路由需求，提供更多设备席位和专属节点。小型团队或工作室可考虑该档位。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1f792d0247f59cc8c09a0b0dbc8557c70a2328c736cd6e0d9bb52f5136ed5ecd",
+    "sitemap.xml": "862b1168a5598029377e07a4a6d2b424c4e55e6681d80531bb35722089848863",
+    "robots.txt": "e202ed42a78efc8e5354174438c49922ca528eaef9f870491c1cfc9cc0792eee",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "fb79cc18ac7657dc390aa3d1525b1a0b2933f5b22bf6ee6c67bd73026919a903"
+}
